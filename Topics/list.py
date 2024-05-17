@@ -56,3 +56,5 @@ print(l1)
 # remove all elements from list
 l1.clear()
 print(l1)
+
+
