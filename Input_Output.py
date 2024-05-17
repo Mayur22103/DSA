@@ -17,5 +17,6 @@
 # a,b,c = map(int,input().split(","))
 # print(a,b,c)
 
-lst = list(map(int,input().split(",")))
-print(lst)
+# lst = list(map(int,input().split(",")))
+# print(lst)
+# print(len(lst))
