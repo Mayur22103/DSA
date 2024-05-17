@@ -39,7 +39,7 @@ print(a1)
 a2 = a1.tolist()
 print(a2)
 
-# add list element to array
+# add list elements to array
 a3= array('i',[33,55,66])
 a3.fromlist(a2)
 print(a3)
